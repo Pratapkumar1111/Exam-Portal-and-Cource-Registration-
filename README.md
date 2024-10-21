@@ -1,10 +1,4 @@
-want to buy this project Contact Info-  +91-9964716807
-For more information about this project visit https://www.notes2free.com/projects/dbms-project-on-online-course-registration-portal-using-php-and-mysql
-# online-course-registration php project 
 
-online course registration by using html,css,js,and php and final year and engineering project 
-
-UI part with Html,css,php,bootstrap and mysql database
 
 ![Image of user](https://github.com/nikhilkeshava/online-course-registration-/blob/master/screens/Screenshot%20(1084).png)
 ![Image of user](https://github.com/nikhilkeshava/online-course-registration-/blob/master/screens/Screenshot%20(1085).png)
